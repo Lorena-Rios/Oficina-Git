@@ -6,7 +6,7 @@
 
   <h2>Sobre o material</h2>
 
-  <p>Todo o conteúdo foi elaborado utilizando o <strong>Obsidian</strong>, uma ferramenta de anotações em Markdown que permite uma organização eficiente e interconectada entre os tópicos.</p>
+  <p>Todo o conteúdo foi elaborado utilizando o **[Obsidian](https://obsidian.md/)**, uma ferramenta de anotações em Markdown que permite uma organização eficiente e interconectada entre os tópicos.</p>
 
   <p>Caso você visualize o conteúdo diretamente pelo Obsidian, poderá navegar de forma facilitada entre as páginas e ainda acessar um <strong>esquema de grafos</strong>, que ajuda a entender a estrutura do material de maneira visual e intuitiva.</p>
 
